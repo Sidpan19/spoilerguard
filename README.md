@@ -4,7 +4,8 @@ Checks whether a One Piece YouTube video is likely to spoil a viewer, given the 
 
 Case study prototype for MiraFlores AI. Small on purpose: one franchise, English, pasted input, 10 hand-labeled videos.
 
-- Live prototype: `<add Streamlit Cloud link>`
+- Live prototype: https://spoilerguard-onepiece.streamlit.app/
+- Source: https://github.com/Sidpan19/spoilerguard
 - Write-up: [docs/WRITEUP.md](docs/WRITEUP.md)
 - Evaluation: [docs/eval_results.md](docs/eval_results.md)
 - Time log: [docs/TIME_LOG.md](docs/TIME_LOG.md), AI usage: [docs/AI_USAGE.md](docs/AI_USAGE.md)

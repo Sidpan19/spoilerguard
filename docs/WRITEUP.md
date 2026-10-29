@@ -1,6 +1,6 @@
 # SpoilerGuard: telling whether a YouTube video will spoil your manga
 
-Siddhesh Pande. MiraFlores AI case study. Prototype: `<link>`. Code: `<repo link>`.
+Siddhesh Pande. MiraFlores AI case study. Prototype: https://spoilerguard-onepiece.streamlit.app/. Code: https://github.com/Sidpan19/spoilerguard.
 
 ## 1. Three problems
 
