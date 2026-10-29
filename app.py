@@ -37,6 +37,7 @@ BADGE = {"SAFE": ("#1b7f3b", "SAFE"), "RISKY": ("#b26a00", "RISKY"), "SPOILER": 
 
 st.title("SpoilerGuard")
 st.caption("Is this One Piece YouTube video a spoiler for where you are in the manga?")
+st.markdown("Paste a video's title and date, enter your chapter, press **Check**.")
 st.warning("Prototype. Timeline and character tables are SAMPLE data supplied by the author. "
            "Results come from 10 hand-labeled videos and are not claims about real-world accuracy.")
 
