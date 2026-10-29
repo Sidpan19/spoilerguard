@@ -1,0 +1,23 @@
+# SAMPLE DATA, user-supplied (candidate's character reveal guide). Not verified by the tool author. first_chapter is used as a LOWER BOUND on a video's horizon, so it should be the first chapter the name appears; reveal chapters later than a first mention can cause false SPOILER verdicts.
+entity,first_chapter,match_terms,source_note
+Shanks,1,Shanks,first appearance
+Roronoa Zoro,3,Zoro,first appearance
+Dracule Mihawk,49,Mihawk,first appearance
+Monkey D. Dragon,100,Monkey D. Dragon,first appearance
+Nico Robin,114,Nico Robin|Miss All Sunday,introduced as Miss All Sunday
+Crocodile,126,Crocodile,introduced
+Portgas D. Ace,154,Portgas|Fire Fist Ace,first appearance
+Blackbeard,223,Blackbeard|Marshall D. Teach,first appearance
+Aokiji,303,Aokiji,first appearance
+Trafalgar D. Water Law,498,Trafalgar Law|Trafalgar,first appearance
+Silvers Rayleigh,500,Rayleigh,first appearance
+Sabo,731,Sabo,reappears as a Revolutionary
+Kaido,795,Kaido,first major reveal
+Imu,908,Imu,revealed at the Empty Throne
+Kozuki Oden,920,Oden,flashback introduction
+Rocks D. Xebec,957,Xebec|Rocks D,first shown in silhouette (full appearance 1154; name alone cannot tell which)
+Dr. Vegapunk,1066,Vegapunk,main body appears
+Joy Boy,1114,Joy Boy|Joyboy,major historical reveal
+Figarland Shanks / Shamrock,1134,Shamrock|Figarland,twin brother Shamrock revealed
+Scopper Gaban,1139,Gaban,identity confirmed on Elbaf
+# Omitted from matching: "Imu, latest major developments 1179-1193" (a range of events, not detectable from a name).

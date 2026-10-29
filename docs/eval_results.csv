@@ -1,0 +1,321 @@
+system,id,group,progress,gold_horizon,gold,verdict,warn,rung,reason,horizon,tag,classifier
+a_rules_only,E1,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E1,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E2,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E3,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E4,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,none
+a_rules_only,E5,explicit,100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,400,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 400.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,900,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 900.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,1100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,1150,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1150.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,1190,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1190.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,1195,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,E5,explicit,1196,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),none
+a_rules_only,W1,weak,100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 100.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,400,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 400.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,900,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 900.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,1100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 1100.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,1150,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1150.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,1190,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1190.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,1195,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1195.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W1,weak,1196,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1196.",Ch. 1132,Manga spoilers up to Ch. 1132,none
+a_rules_only,W2,weak,100,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,400,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,900,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,1100,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,1150,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,1190,1194,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1195) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,1195,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W2,weak,1196,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 49 to 1195,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,100,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,400,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,900,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,1100,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,1150,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,1190,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,1195,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W3,weak,1196,1196,safe,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 49 to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,100,1123,spoiler,SPOILER,True,4 named entity,"Horizon is at least Ch. 223, past your Ch. 100.",Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,400,1123,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 223 to 1124) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,900,1123,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 223 to 1124) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,1100,1123,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. 223 to 1124) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,1150,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1150.",Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,1190,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1190.",Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,1195,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1195.",Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W4,weak,1196,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1196.",Ch. 223 to 1124,Horizon unclear: add a progress label,none
+a_rules_only,W5,weak,100,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,400,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,900,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,1100,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,1150,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,1190,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,1195,1196,spoiler,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+a_rules_only,W5,weak,1196,1196,safe,RISKY,True,"6 unknown, defaulted to risky",Horizon (Ch. ? to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. ? to 1197,No chapter-specific content detected,none
+b_rules_keyword,E1,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E1,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E2,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E3,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E4,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,keyword
+b_rules_keyword,E5,explicit,100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,400,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 400.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,900,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 900.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,1100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,1150,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1150.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,1190,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1190.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,1195,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,E5,explicit,1196,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),keyword
+b_rules_keyword,W1,weak,100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 100.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,400,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 400.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,900,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 900.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,1100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 1100.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,1150,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1150.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,1190,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1190.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,1195,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1195.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W1,weak,1196,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1196.",Ch. 1132,Manga spoilers up to Ch. 1132,keyword
+b_rules_keyword,W2,weak,100,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,400,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,900,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,1100,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,1150,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,1190,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,1195,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W2,weak,1196,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 49 to 1195,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,400,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,900,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,1100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,1150,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,1190,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,1195,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W3,weak,1196,1196,safe,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,100,1123,spoiler,SPOILER,True,4 named entity,"Horizon is at least Ch. 223, past your Ch. 100.",Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,400,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,900,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,1100,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,1150,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1150.",Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,1190,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1190.",Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,1195,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1195.",Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W4,weak,1196,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1196.",Ch. 223 to 1124,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,400,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,900,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,1100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,1150,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,1190,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,1195,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+b_rules_keyword,W5,weak,1196,1196,safe,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,keyword
+c_rules_llm_cache,E1,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E1,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E2,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E3,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,400,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 400.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,900,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 900.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,1100,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1100.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,1150,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1150.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,1190,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1190.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,1195,1196,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1196, past your Ch. 1195.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E4,explicit,1196,1196,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1196, within your Ch. 1196.",Ch. 1196,Manga spoilers up to Ch. 1196,cache
+c_rules_llm_cache,E5,explicit,100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,400,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 400.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,900,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 900.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,1100,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1100.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,1150,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1150.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,1190,1195,spoiler,SPOILER,True,1 explicit chapter,"Horizon is at least Ch. 1195, past your Ch. 1190.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,1195,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,E5,explicit,1196,1195,safe,SAFE,False,1 explicit chapter,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 1195,Manga spoilers up to Ch. 1195 (text already warns about spoilers),cache
+c_rules_llm_cache,W1,weak,100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 100.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,400,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 400.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,900,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 900.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,1100,1132,spoiler,SPOILER,True,1 explicit chapter (hashtag only),"Horizon is at least Ch. 1132, past your Ch. 1100.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,1150,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1150.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,1190,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1190.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,1195,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1195.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W1,weak,1196,1132,safe,SAFE,False,1 explicit chapter (hashtag only),"Horizon is at most Ch. 1132, within your Ch. 1196.",Ch. 1132,Manga spoilers up to Ch. 1132,cache
+c_rules_llm_cache,W2,weak,100,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,400,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,900,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,1100,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,1150,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,1190,1194,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1195) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,1195,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1195.",Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W2,weak,1196,1194,safe,SAFE,False,date cap,"Horizon is at most Ch. 1195, within your Ch. 1196.",Ch. 49 to 1195,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,400,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,900,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,1100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,1150,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,1190,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,1195,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W3,weak,1196,1196,safe,RISKY,True,5 format risk,Horizon (Ch. 49 to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. 49 to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,100,1123,spoiler,SPOILER,True,4 named entity,"Horizon is at least Ch. 223, past your Ch. 100.",Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,400,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,900,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,1100,1123,spoiler,RISKY,True,5 format risk,Horizon (Ch. 223 to 1124) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,1150,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1150.",Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,1190,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1190.",Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,1195,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1195.",Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W4,weak,1196,1123,safe,SAFE,False,date cap,"Horizon is at most Ch. 1124, within your Ch. 1196.",Ch. 223 to 1124,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 100; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,400,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 400; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,900,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 900; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,1100,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1100; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,1150,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1150; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,1190,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1190; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,1195,1196,spoiler,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1195; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+c_rules_llm_cache,W5,weak,1196,1196,safe,RISKY,True,5 format risk,Horizon (Ch. ? to 1197) overlaps your Ch. 1196; cannot rule a spoiler in or out.,Ch. ? to 1197,Horizon unclear: add a progress label,cache
+d_warn_everything,E1,explicit,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E1,explicit,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E2,explicit,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E3,explicit,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E4,explicit,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,100,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,400,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,900,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,1100,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,1150,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,1190,1195,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,1195,1195,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,E5,explicit,1196,1195,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,100,1132,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,400,1132,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,900,1132,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,1100,1132,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,1150,1132,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,1190,1132,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,1195,1132,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W1,weak,1196,1132,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,100,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,400,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,900,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,1100,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,1150,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,1190,1194,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,1195,1194,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W2,weak,1196,1194,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W3,weak,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,100,1123,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,400,1123,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,900,1123,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,1100,1123,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,1150,1123,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,1190,1123,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,1195,1123,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W4,weak,1196,1123,safe,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,400,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,900,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,1100,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,1150,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,1190,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,1195,1196,spoiler,RISKY,True,baseline,Warns on every video.,,,none
+d_warn_everything,W5,weak,1196,1196,safe,RISKY,True,baseline,Warns on every video.,,,none
