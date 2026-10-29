@@ -8,7 +8,7 @@ Case study prototype for MiraFlores AI. Small on purpose: one franchise, English
 - Source: https://github.com/Sidpan19/spoilerguard
 - Write-up: [docs/WRITEUP.md](docs/WRITEUP.md)
 - Evaluation: [docs/eval_results.md](docs/eval_results.md)
-- Time log: [docs/TIME_LOG.md](docs/TIME_LOG.md), AI usage: [docs/AI_USAGE.md](docs/AI_USAGE.md)
+- AI usage: [docs/AI_USAGE.md](docs/AI_USAGE.md)
 
 ## How it works
 
