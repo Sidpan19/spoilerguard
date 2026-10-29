@@ -5,14 +5,15 @@ Siddhesh Pande. MiraFlores AI case study. Prototype: https://spoilerguard-onepie
 ## 1. Three problems
 
 1. **Spoilers from YouTube (chosen).** I read One Piece weekly and sometimes fall behind. YouTube titles, thumbnails, descriptions and auto-summaries reveal plot, and I cannot tell from the surface whether a video is past my chapter.
-2. `<candidate: second problem from personal experience, 2 to 3 lines>`
-3. `<candidate: third problem, 2 to 3 lines>`
+2. **Finding your way in a huge apartment building.** My building, Lorenzo, has 100+ units on each floor. Visitors, delivery drivers and new residents get lost, and there is no unit-level map. An app that maps units and routes people to a door would help.
+3. **Cold email at job-hunt scale.** Apollo gives a limited number of credits per account, which is not enough for a mass cold-emailing strategy while job hunting. I wanted a way to automate finding contacts and sending personalized emails without hitting those limits.
 
-**Why this one:** `<candidate: e.g. I hit it every week, I could collect real examples in an hour, and the core decision (horizon vs progress) is small enough to build and evaluate honestly in 4 hours.>`
+**Why this one:** the other two are real, but their hard parts are not judgment problems. The apartment map is mostly collecting floor-plan data for one building, with a small audience. The cold-email tool is mostly working around another product's limits, and mass sending raises deliverability and spam concerns. The spoiler problem affects a large audience I am part of, I could collect real examples myself, and its core decision (how far does this video go, and is that past my chapter?) is small enough to build and evaluate honestly in a few hours.
 
 ## 2. Observed vs assumed
 
 **Observed** (my experience and 10 collected videos):
+
 - Explicit leaks are common: chapter numbers in titles of live reactions and readings (E1 to E4).
 - "Blind reaction" describes the creator, not the viewer. A blind reaction to Ch. 1196 still spoils someone at 1100.
 - Leak videos point past the latest release. E5 posted a "confirmed spoiler" for Ch. 1195 five days before its official date. Reactions to Ch. 1196 appeared 1 to 2 days before its official date.
@@ -21,6 +22,7 @@ Siddhesh Pande. MiraFlores AI case study. Prototype: https://spoilerguard-onepie
 - Many results are not in English.
 
 **Assumed** (not verified):
+
 - Fans want per-series progress settings rather than a global spoiler filter.
 - Creators would adopt a suggested label if it were easy.
 - The 10 videos reflect the wider distribution. They do not: they are a hand-picked seed, not a random sample.
@@ -69,6 +71,7 @@ By group: explicit videos get a firm, correct verdict in 40/40 cases. Weak-signa
 **Failures.** No spoiler was missed. Two false alarms: W3 and W5 for a reader at 1196. Both were posted after Ch. 1196's release date, my timeline ends at 1196, so the tool cannot rule out that 1197 was already leaking, and returns RISKY. That is the intended behaviour, not a bug.
 
 **What the numbers do not show:**
+
 - **The classifier added nothing measurable.** All three systems tie. None of the titles contains a recency cue in a reaction-type video, so the format label never changes a verdict. Its value would show on descriptions and transcripts, which I did not collect.
 - **Weak-signal gold labels are not independent.** I set W2 to W5 horizons to the latest chapter at the post date, and the tool's upper bound uses the same release table. The SAFE verdicts for those videos are partly guaranteed by construction. Independent labels would need someone to watch the videos.
 - **W2's real horizon is hidden** in the linked original video. **W1's hashtag** may be an anime episode, not a chapter.
